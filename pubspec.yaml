@@ -13,4 +13,5 @@ dependencies:
 flutter:
   uses-material-design: true
   assets:
-  - assets/data/
+    - assets/data/barang.json
+    - assets/data/users.json
